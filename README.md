@@ -1,3 +1,5 @@
+![Jet-Mirror](assets/main_pic.jpg)
+
 This is a Telegram Bot written in Python-Pyrogram for Managing Membership of Users in Paid-Leech-Group or Dumps.
 
 ---
